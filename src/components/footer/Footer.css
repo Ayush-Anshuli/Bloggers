@@ -1,0 +1,22 @@
+.footer-container{
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-top: "20%"; */
+}
+.social-container{
+    display: flex;
+    gap: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.hori{
+    color: #53c28b;
+    margin-top: "20px";
+}
+@media (max-width:768px) {
+    .footer-container{
+        font-size: 0.85rem;
+    }
+}
