@@ -32,7 +32,7 @@ const Login = () => {
             <input type='email' placeholder='Email' className='reginput' />
             <input type='password' placeholder='Password' className='reginput' />
             <button className='register' >Login</button>
-            <span className='account'>Don't have an account? <Link href={"/dashboard/register"} className='log'>Register</Link> </span>
+            <span className='account'>Don&apos;t have an account? <Link href={"/dashboard/register"} className='log'>Register</Link> </span>
           </form>
           <div className='login-btn'>
             <button onClick={() => signIn("google")} className='register'>Log in witjh google</button>

@@ -9,13 +9,13 @@ const About = () => {
         <Image src="https://images.pexels.com/photos/3194521/pexels-photo-3194521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" fill={true} alt='' className='cover' />
         <div className='img-text'>
           <h1 className='img-title'>We create digital ideas that are bigger,bolder,braver.</h1>
-          <h3 className='img-desc'>We belive in good ideas flexibility and precission We're world's Our Special Team bes Consulting & finance solution provider.Wide range of Web and software development services. </h3>
+          <h3 className='img-desc'>We belive in good ideas flexibility and precission We&apos;re world&apos;s Our Special Team bes Consulting & finance solution provider.Wide range of Web and software development services. </h3>
         </div>
       </div>
       <div className='about-text-container'>
         <div className='abt-item'>
           <h1 className='abt-title'>What we do?</h1>
-          <p className='abt-desc'>We specialize in creating high-quality blog content tailored to your unique voice and goals. Whether you're a startup looking to build brand awareness, a company aiming to engage your audience with thought leadership, or an individual wanting to share your expertise, we have the skills and experience to help you succeed.</p>
+          <p className='abt-desc'>We specialize in creating high-quality blog content tailored to your unique voice and goals. Whether you&apos;re a startup looking to build brand awareness, a company aiming to engage your audience with thought leadership, or an individual wanting to share your expertise, we have the skills and experience to help you succeed.</p>
         </div>
         <div className='abt-item'>
         <h1 className='abt-title'>Who We Are?</h1>
@@ -23,33 +23,6 @@ const About = () => {
       </div>
       </div>
 
-      {/* <div className='about-text-container'>
-        <div className='abt-item'>
-          <h1 className='abt-title'>What We Do..</h1>
-          <p className='abt-desc'> We specialize in creating high-quality blog content tailored to your unique voice and goals. Whether you're a startup looking to build brand awareness, a company aiming to engage your audience with thought leadership, or an individual wanting to share your expertise, we have the skills and experience to help you succeed.</p>
-        </div>
-        <div className='abt-item'>
-        <h1 className='abt-title'>Our Services</h1>
-        <p className='abt-desc'>Content Creation:From in-depth articles and how-to guides to engaging listicles and opinion pieces, our team produces a wide range of content to suit your needs.</p>
-        <p className="ab-desc" >
-              Editing and Proofreading: Ensure your content is polished, professional, and error-free with our expert editing services.            
-        </p>
-        <p className="abt-desc" >
-              Content Creation:From in-depth articles and how-to guides to engaging listicles and opinion pieces, our team produces a wide range of content to suit your needs.
-            </p>
-      </div>
-      </div> */}
-
-      {/* <div className='about-text-container'>
-        <div className='abt-item'>
-          <h1 className='abt-title'>Welcome to BlogyPedia..</h1>
-          <p className='abt-desc'>At BlogyPedia, we believe in the power of storytelling. Our mission is to help brands and individuals craft compelling narratives that resonate, engage, and inspire.</p>
-        </div>
-        <div className='abt-item'>
-        <h1 className='abt-title'>Who We Are..</h1>
-        <p className='abt-desc'>Founded in 2024, BlogyPedia is a team of passionate writers, editors, strategists, and digital marketers dedicated to elevating your online presence. With diverse backgrounds in journalism, creative writing, marketing, and design, we bring a wealth of experience and creativity to every project.</p>
-      </div>
-      </div> */}
 
 <div className="experience">
               <div className='border'>
